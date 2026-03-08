@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge"/>
   <img src="https://img.shields.io/badge/System%20Design-LLD-blue?style=for-the-badge" alt="LLD Badge"/>
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License Badge"/>
+  
   <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" alt="Status Badge"/>
 </p>
 
