@@ -181,10 +181,12 @@ Occupation: gamer
 
 Signup successful!
 ```
+<img width="1435" height="257" alt="Screenshot 2026-03-08 151509" src="https://github.com/user-attachments/assets/20a4c753-cf6a-4e6d-b6f0-229c98054951" />
 
 ### 🔐 User Login & Dashboard
 
 Users log in by entering their registered name, transitioning them instantly to their personal console dashboard.
+<img width="1443" height="159" alt="Screenshot 2026-03-08 151558" src="https://github.com/user-attachments/assets/bfa0d881-656c-49c4-b9a2-bd4e5667189d" />
 
 **Example Dashboard Output:**
 ```text
@@ -193,6 +195,7 @@ Users log in by entering their registered name, transitioning them instantly to 
 3. View Friends
 4. Logout
 ```
+<img width="1439" height="214" alt="Screenshot 2026-03-08 151612" src="https://github.com/user-attachments/assets/d75c6f14-e105-4a43-8329-ba414a548479" />
 
 ### 📝 Post Creation & News Feed Algorithm
 
@@ -293,9 +296,7 @@ Specializing in:
 - Cybersecurity  
 - AI-powered interactive applications  
 
-**Key Projects:**  
-- TheraGames  
-- CyberGuard  
+
 
 ---
 
