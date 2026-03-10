@@ -13,6 +13,7 @@ public class Notification {
 		this.isRead=false;
 		this.timestamp=LocalDateTime.now();
 	}
+
 	
 	public String getMessage() {
 		return message;
