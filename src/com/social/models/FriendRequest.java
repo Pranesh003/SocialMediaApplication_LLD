@@ -41,5 +41,4 @@ public class FriendRequest {
 		status=RequestStatus.REJECTED;
 	}
 	
-	
 }
