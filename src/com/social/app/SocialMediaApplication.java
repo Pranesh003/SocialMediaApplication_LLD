@@ -13,7 +13,7 @@ public class SocialMediaApplication {
         FriendService friendService = new FriendService();
         PostService postService = new PostService();
 
-        User currentUser = null;   // ✅ declare current user
+        User currentUser = null;   
 
         while(true){
 
