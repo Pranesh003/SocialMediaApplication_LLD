@@ -66,5 +66,4 @@ public class Post {
 	public LocalDateTime getTimestamp() {
 		return timestamp;
 	}
-	
 }
