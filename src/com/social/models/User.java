@@ -90,5 +90,4 @@ public class User {
 		sentRequests.add(request);
 	}
 	
-	
 }
