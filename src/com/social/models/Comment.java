@@ -2,6 +2,7 @@ package com.social.models;
 
 import java.time.LocalDateTime;
 
+
 public class Comment {
 
 	private User author;
