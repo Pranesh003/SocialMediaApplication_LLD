@@ -83,7 +83,6 @@ public class SocialMediaApplication {
             System.out.println("2. View Feed");
             System.out.println("3. View Friends");
             System.out.println("4. Logout");
-
             int choice = sc.nextInt();
             sc.nextLine();
 
