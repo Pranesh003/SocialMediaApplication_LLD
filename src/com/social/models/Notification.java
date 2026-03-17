@@ -2,7 +2,6 @@ package com.social.models;
 
 import java.time.LocalDateTime;
 
-
 public class Notification {
 
 	private String message;
