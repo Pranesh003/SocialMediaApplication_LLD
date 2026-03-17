@@ -89,5 +89,5 @@ public class User {
 	public void addSentRequest(FriendRequest request) {
 		sentRequests.add(request);
 	}
-	
+
 }
